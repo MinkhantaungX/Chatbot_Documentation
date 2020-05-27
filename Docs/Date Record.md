@@ -1,5 +1,6 @@
 Date Record
 
+<<<<<<< HEAD
 
 Delete .git in project folder
 
@@ -20,3 +21,6 @@ Go to RESTART
 "brew install git"
 
 go to git processing again
+=======
+22.5.2020
+>>>>>>> 54ccc618beab64b117acc8231bd768d0dbc5fc9e
